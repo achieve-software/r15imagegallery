@@ -1,4 +1,25 @@
-# Getting Started with Create React App
+
+# Image Gallery
+## Description
+Project aims to create Image Gallery application using React
+## Project Skeleton
+```
+|----public
+        |----index.html
+|----src        
+
+       |----App.js
+       |----style.css
+       |----index.js
+       |----data.js
+|----readme.md
+```
+## Project-gif
+![JavaScript-project](https://raw.githubusercontent.com/achieve-software/achieve-software/main/img/r15imagegallery.gif)
+## Project-link
+https://illustrious-parfait-811af3.netlify.app/
+### At the end of the project, following topics are to be covered;
+-React# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
