@@ -19,7 +19,8 @@ Project aims to create Image Gallery application using React
 ## Project-link
 https://illustrious-parfait-811af3.netlify.app/
 ### At the end of the project, following topics are to be covered;
--React# Getting Started with Create React App
+-React
+# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
